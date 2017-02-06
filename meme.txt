@@ -5,5 +5,14 @@
 #p Svar: RAM þýðir "Random access memory." og er vinnsluminni sem er notað til að auka hraða hjá kerfum
 
 #3 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
-#p Svar: ROM stendyr fyrir 'Read only memory' og það er innbyggt í tölvuminni sem er oftast aðeins hægt að lesa en stundum skrifa.
+#p Svar: ROM stendyr fyrir 'Read only memory' og það er innbyggt í tölvuminni sem er oftast aðeins hægt að lesa en stundum hægt er að skrifa.
 
+#3 3. Hvað er fyrirbyggjandi viðhald?
+#p þá er reglulega farið yfir tölvuna til að vera viss um að allt sé í lagi
+
+#3 4.Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+#p ESD stendur fyrir 'Electro Static Discharge'
+
+#p Ein af orsökum atburða ESD er truflanir rafmagn. Stöðurafmagn er oft myndað í gegnum tribocharging, aðskilnað rafmagns gjöldum sem á sér stað þegar tvö efni komast í snertingu og þá aðskilin.
+
+#p Notið varnarbúnað eins úlnlið ólar, eina grounders og / eða leiðandi skó. Þessi atriði hjálpa til að koma í veg hleðslu frá byggja. 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá.
