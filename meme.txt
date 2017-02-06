@@ -1,17 +1,17 @@
-#1 TÆK21
-#2 Git verkefni
+# H1 TÆK21
+## H2 Git verkefni
 
-#3 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+### H3 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
-#4 Svar:
+#### H4 Svar:
 #p Svar: RAM þýðir "Random access memory." og er vinnsluminni sem er notað til að auka hraða hjá kerfum
 
-#3 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+### H3 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 
-#4 Svar:
+#### H4 Svar:
 #p Svar: ROM stendyr fyrir 'Read only memory' og það er innbyggt í tölvuminni sem er oftast aðeins hægt að lesa en stundum hægt er að skrifa.
 
-#3 3. Hvað er fyrirbyggjandi viðhald?
+### H3 3. Hvað er fyrirbyggjandi viðhald?
 
 #4 Svar:
 #p Svar: þá er reglulega farið yfir tölvuna til að vera viss um að allt sé í lagi
@@ -82,3 +82,4 @@ Case Fan	Corsair Air Series AF140 Quiet Edition 67.8 CFM 140mm Fan-----$17.88 @ 
 Case Fan	Corsair Air Series White 2 pack 52.2 CFM 120mm Fan------------$20.49 @ OutletPC
 
 #3                                                             Total-------$778.67 = 88.264 KR
+
