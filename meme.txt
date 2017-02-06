@@ -81,4 +81,4 @@ Optical Drive	Asus DRW-24F1ST DVD/CD Writer-----------------------------Purchase
 Case Fan	Corsair Air Series AF140 Quiet Edition 67.8 CFM 140mm Fan-----$17.88 @ OutletPC
 Case Fan	Corsair Air Series White 2 pack 52.2 CFM 120mm Fan------------$20.49 @ OutletPC
 
-#3                                                                        Total------$778.67
+#3                                                             Total-------$778.67 = 88.264 KR
