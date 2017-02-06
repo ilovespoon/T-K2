@@ -1,2 +1,7 @@
+#1 TÆK21
+#2 Git verkefni
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
-svar :RAM þýðir "Random access memory."
+Svar: RAM þýðir "Random access memory."
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+Svar: ROM stendyr fyrir 'Read only memory'
