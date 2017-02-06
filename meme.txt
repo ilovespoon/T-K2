@@ -3,30 +3,36 @@
 
 #3 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
+#4 Svar:
 #p Svar: RAM þýðir "Random access memory." og er vinnsluminni sem er notað til að auka hraða hjá kerfum
 
 #3 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 
+#4 Svar:
 #p Svar: ROM stendyr fyrir 'Read only memory' og það er innbyggt í tölvuminni sem er oftast aðeins hægt að lesa en stundum hægt er að skrifa.
 
 #3 3. Hvað er fyrirbyggjandi viðhald?
 
+#4 Svar:
 #p Svar: þá er reglulega farið yfir tölvuna til að vera viss um að allt sé í lagi
 
 #3 4.Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
-#p Svar: ESD stendur fyrir 'Electro Static Discharge'
+#4 Svar:
+#p ESD stendur fyrir 'Electro Static Discharge'
 
-#p Svar: Ein af orsökum atburða ESD er truflanir rafmagn. Stöðurafmagn er oft myndað í gegnum tribocharging, aðskilnað rafmagns gjöldum sem á sér stað þegar tvö efni komast í snertingu og þá aðskilin.
+#p Ein af orsökum atburða ESD er truflanir rafmagn. Stöðurafmagn er oft myndað í gegnum tribocharging, aðskilnað rafmagns gjöldum sem á sér stað þegar tvö efni komast í snertingu og þá aðskilin.
 
-#p Svar: Notið varnarbúnað eins úlnlið ólar, eina grounders og / eða leiðandi skó. Þessi atriði hjálpa til að koma í veg hleðslu frá byggja. 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá.
+#p Notið varnarbúnað eins úlnlið ólar, eina grounders og / eða leiðandi skó. Þessi atriði hjálpa til að koma í veg hleðslu frá byggja. 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá.
 
 #3 5. Hvað þarf að hafa í huga við val á spennugjöfum?
-#p Svar: þarf að passa inní tölvukassann og að hann passi við hina hlutina sem þarf að tengja saman
+
+#4 Svar:
+#p þarf að passa inní tölvukassann og að hann passi við hina hlutina sem þarf að tengja saman
 
 #3 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
-#p Svör:
+#4 Svör:
 
 #p 1.skref = finna hvað vandamálið er
 
@@ -39,3 +45,26 @@
 #p 5.skref = Laga það sem var að
 
 #p 6.skref = láta eiganda tölvunar vita hvað var að og skila henni
+
+#3 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+
+#4 Svar:
+#p opin spurning er eitthvað sem allir meiga svara í. dæmi : Hver verður forsetinn ? __________
+#p lokuð spurning er eitthvað sem bara sérstakir aðilar meiga svara. dæmi : hver á að fá þennan pening ? ________
+
+#3 8. Hvað eru jaðartæki?
+
+#4 Svar:
+#p hlutir sem þú getur stungið í samband í tölvuna (accessories) t.d. Heyrnatól, mús og lyklaborð og svo fleira.
+
+#3 9. Nefndu þrjú dæmi um inntakstæki.
+
+#4 Svar:
+#p Lyklaborð, mús og myndavél
+
+#3 Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+#4: Leikjatalvan mín
