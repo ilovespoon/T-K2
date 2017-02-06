@@ -1,0 +1,2 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+svar :RAM þýðir "Random access memory."
