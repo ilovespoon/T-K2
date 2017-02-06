@@ -1,4 +1,4 @@
-# H1 TÆK21
+# H1 TÆK2 1
 ## H2 Git verkefni
 
 ### H3 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
