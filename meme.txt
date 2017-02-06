@@ -2,17 +2,40 @@
 #2 Git verkefni
 
 #3 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+
 #p Svar: RAM þýðir "Random access memory." og er vinnsluminni sem er notað til að auka hraða hjá kerfum
 
 #3 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+
 #p Svar: ROM stendyr fyrir 'Read only memory' og það er innbyggt í tölvuminni sem er oftast aðeins hægt að lesa en stundum hægt er að skrifa.
 
 #3 3. Hvað er fyrirbyggjandi viðhald?
-#p þá er reglulega farið yfir tölvuna til að vera viss um að allt sé í lagi
+
+#p Svar: þá er reglulega farið yfir tölvuna til að vera viss um að allt sé í lagi
 
 #3 4.Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
-#p ESD stendur fyrir 'Electro Static Discharge'
 
-#p Ein af orsökum atburða ESD er truflanir rafmagn. Stöðurafmagn er oft myndað í gegnum tribocharging, aðskilnað rafmagns gjöldum sem á sér stað þegar tvö efni komast í snertingu og þá aðskilin.
+#p Svar: ESD stendur fyrir 'Electro Static Discharge'
 
-#p Notið varnarbúnað eins úlnlið ólar, eina grounders og / eða leiðandi skó. Þessi atriði hjálpa til að koma í veg hleðslu frá byggja. 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá.
+#p Svar: Ein af orsökum atburða ESD er truflanir rafmagn. Stöðurafmagn er oft myndað í gegnum tribocharging, aðskilnað rafmagns gjöldum sem á sér stað þegar tvö efni komast í snertingu og þá aðskilin.
+
+#p Svar: Notið varnarbúnað eins úlnlið ólar, eina grounders og / eða leiðandi skó. Þessi atriði hjálpa til að koma í veg hleðslu frá byggja. 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá.
+
+#3 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+#p Svar: þarf að passa inní tölvukassann og að hann passi við hina hlutina sem þarf að tengja saman
+
+#3 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+#p Svör:
+
+#p 1.skref = finna hvað vandamálið er
+
+#p 2.skref = fá hugmynd um að finna út afhverju þetta gerðist
+
+#p 3.skref = prófa hugmyndina hvort hún virki
+
+#p 4.skref = búa til áætlun um hvernig þú ætlar að laga vandamálið
+
+#p 5.skref = Laga það sem var að
+
+#p 6.skref = láta eiganda tölvunar vita hvað var að og skila henni
