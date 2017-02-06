@@ -67,4 +67,18 @@ Nefnið dæmi um báðar gerðir af spurningum.
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
-#4: Leikjatalvan mín
+#4 Leikjatalvan mín
+
+#p CPU	Intel Core i5-7500 3.4GHz Quad-Core Processor---------------------Purchased For $201.89
+Motherboard	MSI B250M PRO-VDH Micro ATX LGA1151 Motherboard---------------Purchased For $79.99
+Memory	Team Dark 16GB (2 x 8GB) DDR4-2400 Memory-------------------------Purchased For $84.99
+Storage	Crucial BX100 250GB 2.5" Solid State Drive------------------------Purchased For $85.00
+Storage	Western Digital Caviar Blue 1TB 3.5" 7200RPM Internal Hard Drive--Purchased For $49.99
+Video Card	MSI Radeon RX 480 4GB ARMOR OC Video Card---------------------Purchased For $159.99
+Case	Apevia X-QPACK3-CL MicroATX Mini Tower Case-----------------------Purchased For $59.99
+Power Supply	Corsair Enthusiast 650W 80+ Certified ATX Power Supply----Purchased For $0.00
+Optical Drive	Asus DRW-24F1ST DVD/CD Writer-----------------------------Purchased For $18.46
+Case Fan	Corsair Air Series AF140 Quiet Edition 67.8 CFM 140mm Fan-----$17.88 @ OutletPC
+Case Fan	Corsair Air Series White 2 pack 52.2 CFM 120mm Fan------------$20.49 @ OutletPC
+
+#3                                                                        Total------$778.67
